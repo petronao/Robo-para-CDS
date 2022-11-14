@@ -1,0 +1,77 @@
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csprojResolveAssemblyReference.cache
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form1.resources
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Properties.Resources.resources
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.GenerateResource.Cache
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.exe
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.pdb
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.exe
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.pdb
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.xml
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atendimento_Individual.resources
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.Support.xml
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atividades_Coletivas.resources
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Visita_Domiciliar.resources
+C:\Users\gga\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Procedimentos.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.exe
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.pdb
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csprojResolveAssemblyReference.cache
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form1.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atendimento_Individual.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atividades_Coletivas.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Procedimentos.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Properties.Resources.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Visita_Domiciliar.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.GenerateResource.Cache
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.exe
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.pdb
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.xml
+C:\Users\famlia\Desktop\ferramentas PEC ESUS\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.Support.xml
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.exe
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.pdb
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.exe
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.pdb
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.xml
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.Support.xml
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csprojResolveAssemblyReference.cache
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form1.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atendimento_Individual.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atividades_Coletivas.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Odontologia.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Procedimentos.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Properties.Resources.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Visita_Domiciliar.resources
+C:\Users\famlia\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.GenerateResource.Cache
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.exe
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.pdb
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.exe
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.pdb
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.xml
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.Support.xml
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form1.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atendimento_Individual.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atividades_Coletivas.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Odontologia.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Procedimentos.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Properties.Resources.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Visita_Domiciliar.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.GenerateResource.Cache
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csprojAssemblyReference.cache
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.CopyComplete
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.exe
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\DigitacaoAuto.pdb
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.xml
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\bin\Debug\WebDriver.Support.xml
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csprojAssemblyReference.cache
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form1.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atendimento_Individual.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Atividades_Coletivas.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Odontologia.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Form_Procedimentos.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Properties.Resources.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.Visita_Domiciliar.resources
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.csproj.CopyComplete
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.exe
+C:\Users\petronio\Desktop\ferramentas PEC ESUS 4.12\ferramentas PEC ESUS 4.14\SELENIUM\DigitacaoAuto\DigitacaoAuto\obj\x86\Debug\DigitacaoAuto.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitacaoAuto", "DigitacaoAuto\DigitacaoAuto.csproj", "{F310F5AD-32FE-48C5-8080-82CDACFF109E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F310F5AD-32FE-48C5-8080-82CDACFF109E}.Debug|x86.ActiveCfg = Debug|x86
+		{F310F5AD-32FE-48C5-8080-82CDACFF109E}.Debug|x86.Build.0 = Debug|x86
+		{F310F5AD-32FE-48C5-8080-82CDACFF109E}.Release|x86.ActiveCfg = Release|x86
+		{F310F5AD-32FE-48C5-8080-82CDACFF109E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
